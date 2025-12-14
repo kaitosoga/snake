@@ -1,1 +1,1 @@
-This is old code. It only serves as an archive.
+This is old code. The repo only serves as an archive.
